@@ -11,6 +11,9 @@ tags.Besides the mentioned skills,  I gave some links a
 ```
  <a>
 ```
- But I know if I want to make words bigger should use CSS to adjust the size of the word.
+ But I know if I want to make words bigger should use CSS to adjust the size of the word, and I should not use 
+ ```
+ <br>
+ ```
 I gained a little confidence after finishing this practice project. (^-^)
 Thank you, The Odin Project.
